@@ -12,7 +12,8 @@
 
 3. It returns an array.
 
-4.
+4. Get hero image with:
+
 ```javascript
 document.getElementsByClassName("rlHeroSection michelle-g-hero");
 ```
