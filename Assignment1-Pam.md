@@ -12,9 +12,6 @@
 
 3. It returns an array.
 
-
-The following questions should be executed on the https://www.rocketlawyer.com/statement-of-information.rl page
-
 4.
 ```javascript
 document.getElementsByClassName("rlHeroSection michelle-g-hero");
